@@ -1,9 +1,6 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FFB6C1,FFC0CB,FF69B4&height=180&section=header"/>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/XIqCQx02E1U9W/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif" width="200"/>
 </p>
-
 # 💫 About Me:
 Hey, I'm Varsha 👩🏻‍💻 <br>A CSE student passionate about App Development, AI/ML, LLM'S and Deep Learning.<br><br>🔧 Currently learning:<br>- Data Structures & Algorithms  <br>- System Design  <br>- Mobile App Development  <br>- Machine Learning and AI<br><br>🎯 Aspiring to Become an AIML Engineer and build impactful tech products  <br>📬 Open to internships and collaborations <br><br>Always learning, always improving  ✨
 
