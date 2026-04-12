@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l1KtXmfi3EnjM5zpK/giphy.gif" width="200"/>
 </p>
-![](https://github-readme-stats.vercel.app/api?username=heyvarshh&theme=radical&hide_border=false)
-
 ![](https://streak-stats.demolab.com/?user=heyvarshh&theme=radical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=heyvarshh&theme=radical&layout=compact)
